@@ -108,6 +108,13 @@
         "zany"
       ],
       "id": "10"
+    },
+    {
+      "name": "LArry",
+      "species": "bear",
+      "diet": "carnivore",
+      "personalityTraits": [],
+      "id": "11"
     }
   ]
 }
